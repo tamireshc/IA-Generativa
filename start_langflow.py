@@ -27,7 +27,7 @@ TWEAKS = {
         "text_color": "",
     },
     "GoogleGenerativeAIModel-x3xmt": {
-        "google_api_key": "AIzaSyCq3PaYu582eYGZ02j0TeaPwY3cvE5Dvg0",
+        "google_api_key": "",
         "input_value": "",
         "max_output_tokens": None,
         "model": "gemini-1.5-flash",
